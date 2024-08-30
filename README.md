@@ -12,20 +12,11 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://static.scientificamerican.com/sciam/assets/Image/2019/GIF4_VoltronNeuron.gif" width="50%" alt="Banner" />
-</div>
-
----
-
 <div align="center">
   <h2>🌎 El mundo que nos rodea</h2>
   <p>Vivimos una época extraña, donde la inteligencia artificial avanza aceleradamente, pero la medicina se mantiene estancada, en un estado de éstasis por la falta de inversión, optimización de recursos y de aplicación de las tecnologías de punta que vemos todos los días en el sector salud. Mientras algoritmos de IA pueden modificar la arquitectura del cerebro para provocar que personas estén cada vez más tiempo en redes sociales... los profesores en el aula y los doctores en el consultorio no tienen mecanismos ni recursos para resolver los problemas más importantes de la humanidad.</p>
 </div>
 
----
 
 <div align="center">
   <img src="https://media.tenor.com/91scJf-xrKEAAAAj/emoji-coraz%C3%B3n-humano.gif" height="200" alt="Corazón Latiendo Placeholder" />
@@ -69,7 +60,7 @@
   <img src="Astrocyte.png" height="150" alt="Dashboard Animation" />
 </div>
 
----
+
 
 <div align="center">
   <h2>● Tecnologías ●</h2>
@@ -145,7 +136,6 @@
   <img src="https://www.docify.app/images/breastcancer.webp" width="100%" alt="Visión Placeholder" />
 </div>
 
----
 
 <div align="center">
   <h2>🌱 Mis Principios</h2>
