@@ -133,7 +133,7 @@
 <div align="center">
   <h2>🌟 La verdadera IA</h2>
   <p>El conocimiento es un pilar de la humanidad. No busco una tecnología que reemplace al humano, sino que amplifique sus capacidades, estoy hablando de <strong>Inteligencia Aumentada.</strong></p>
-  <img src="https://www.docify.app/images/breastcancer.webp" width="100%" alt="Visión Placeholder" />
+  <img src="heart.webp" width="20%" alt="Visión Placeholder" />
 </div>
 
 
@@ -141,7 +141,7 @@
   <h2>🌱 Mis Principios</h2>
   <h3>Hay algunas cosas que me rigen durante mi trayectoria de vida.</h3>
 
-  <cite style="font-size: 20px">Lo primero es no dañar:</cite> <p>Juré, al recibirme como médico, que mi primer principio sería no dañar, ni aunque sea por un bien mayor. No se experimenta con la salud humana.</p>
+  <cite style="font-size: 20px">Lo primero es no dañar</cite> <p>Juré, al recibirme como médico, que mi primer principio sería no dañar, ni aunque sea por un bien mayor. No se experimenta con la salud humana.</p>
 
   <cite style="font-size: 20px">Ante la duda, abstente</cite>
   <p>Si no existe evidencia suficiente como para aseverar que algo es seguro, es mala idea. El tratamiento médico es sagrado y no debe mancharse con suposiciones.</p>
@@ -152,7 +152,7 @@
 ---
 
 <div align="center">
-  <h2>📜 Mi Trayectoria</h2>
+  <h2>☘️ Trayectoria</h2>
   <p>El aprendizaje es el medio, lo que hago con él es el fin. Les comparto algunas de las certificaciones más relevantes que he recibido.</p>
   <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-2024-blue?style=flat&logo=microsoft" height="40" alt="Azure AI Engineer" />
   <img src="https://img.shields.io/badge/Machine%20Learning%20Professional-2021-yellow?style=flat&logo=python" height="40" alt="Machine Learning Professional" />
@@ -161,7 +161,7 @@
 ---
 
 <div align="center">
-  <h2>🔍 Educación: La Base de Mi Conocimiento</h2>
+  <h2>🔍 Mis bases</h2>
   <ul style="list-style-type:none;">
     <li><strong>Maestría en Inteligencia Artificial</strong> | Universidad Católica de Ávila, España | 2023 - 2025 (En curso)</li>
     <li><strong>Licenciatura en Desarrollo de Software</strong> | Instituto de Estudios Universitarios, México | 2019 - 2021</li>
@@ -172,7 +172,7 @@
 ---
 
 <div align="center">
-  <h2>🌐 Estadísticas de GitHub</h2>
+  <h2>🐈 Estadísticas de GitHub</h2>
   <p>Mi actividad en GitHub es un reflejo de mi compromiso con la innovación en la salud, donde cada proyecto es un paso hacia un futuro mejor.</p>
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoLerma&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLerma&layout=compact&theme=radical" height="150" alt="Top Languages" />
