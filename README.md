@@ -182,14 +182,11 @@
 ---
 
 <div align="center">
-  <h2>🥼 El que no sirvió... no sirvió.</h2>
+  <h2>🥼 Voluntariado</h2>  
 
-  <cite style="font-size: 20px">Voluntariado</cite>
-  
-
-  <p>He trabajado en varios proyectos de  voluntariado... y seguiré trabajando en más.</p>
+  <p>He trabajado en varios proyectos de  voluntariado ¡y seguiré trabajando en más!</p>
   <ul style="list-style-type:none;">
-    <li><strong>Voluntariado en Islandia:</strong> Participación en proyectos de salud pública y educación médica en comunidades rurales.</li>
+    <li><strong>Voluntariado en Islandia:</strong> Participación en proyectos de reforestación y educación en Islandia.</li>
     <li><strong>Educación en salud:</strong> He impartido clases y ponencias en múltiples ocasiones a lo largo de México para difundir el conocimiento en salud y tecnología.</li>
   </ul>
 </div>
@@ -206,9 +203,11 @@
 <div align="center">
   <h2>🌐 ¡Cuenta conmigo!</h2>
   <p>Si compartes mi visión, por favor, no dudes en contactarme, al menos para saber que no estoy solo en esto. Estoy siempre abierto a nuevas ideas y proyectos.</p>
+
   <a href="https://www.linkedin.com/in/diego-lerma/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Diego%20Lerma-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+
 </div>
 
 ---
