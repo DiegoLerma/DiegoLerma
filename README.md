@@ -1,4 +1,4 @@
-# <p align="center">🌐 **Diego Cesar Lerma Torres, MD**</p>
+# <p align="center">🩺 **Diego Cesar Lerma Torres, MD**</p>
 
 <div align="center">
   <a href="http://www.doctordiegolerma.com" target="_blank">
@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>🌎 El mundo que nos rodea</h2>
-  <p>Vivimos una época extraña, donde la inteligencia artificial avanza aceleradamente, pero la medicina se mantiene estancada, en un estado de éstasis por la falta de inversión, optimización de recursos y de aplicación de las tecnologías de punta que vemos todos los días en el sector salud. Mientras algoritmos de IA pueden modificar la arquitectura del cerebro para provocar que personas estén cada vez más tiempo en redes sociales... los profesores en el aula y los doctores en el consultorio no tienen mecanismos ni recursos para resolver los problemas más importantes de la humanidad.</p>
+  <p>Vivimos una época extraña, en la que la inteligencia artificial avanza aceleradamente, mientras que la salud humana permanece rezagada debido a la falta de inversión, voluntad, optimización de recursos y la implementación de tecnologías de vanguardia en el sector salud. Mientras los algoritmos de IA son capaces de modificar la arquitectura cerebral, atrapando a las personas en las redes sociales por más tiempo, los profesores en las aulas y los doctores en los consultorios carecen de las herramientas y recursos necesarios para abordar los problemas más críticos de la humanidad.</p>
 </div>
 
 
@@ -26,23 +26,23 @@
 
 <div align="center">
   <h2>💡 Mi Visión</h2>
-  <p>Creo que el verdadero futuro de la medicina no se encuentra en donde lo estamos buscando. Necesitamos mecanismos para conseguir la educación masiva de la gente y el empoderamiento de los pacientes en su salud. También, será indispensable el uso de tecnología para extender la capacidad del médico y llevar la salud que este transmite a donde se requiera.
+  <p>Creo que el verdadero futuro de la humanidad no se encuentra en donde lo estamos buscando. Necesitamos tecnología para optimizar la educación y la salud humana y aplicar cada nuevo descubrimiento de IA en estas áreas, de forma segura y eficiente.
   
-  En mi caso, quiero ser ese enlace entre estas tres partes: Paciente, Salud y Tecnología, ayudando a crear los mecanismos para que la medicina de precisión sea la norma, y donde cada tratamiento esté hecho a la medida de la persona.
+  En mi caso, quiero ser ese enlace entre estas tres partes: Salud, Tecnología y Educación, ayudando a crear los mecanismos para que la medicina de precisión sea la norma, y donde cada tratamiento y programa académico esté hecho a la medida.</p>
   </div>
 
 ---
 
 <div align="center">
 
-  <img src="https://media1.giphy.com/media/DWsmQ1rKgPE7Ab8oio/giphy.gif?cid=6c09b952sttxqqdq06i83me2tk9scu4gq25ebsxome4poxmu&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200" alt="Corazón Latiendo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8832/8832880.png" height="200" alt="Corazón Latiendo" />
 </div>
 
 
 <div align="center">
-  <cite style="font-size: 20px;"><br>Dice Jorge Ibargüengoitia "Escribo para leer un libro que no existe".
+  <cite style="font-size: 20px;"><br>Decía Jorge Ibargüengoitia "Escribo para leer un libro que no existe".
 
-  Bueno... pues yo escribo código para ver soluciones que no existen. 
+  Bueno... pues yo desarrollo software para ver soluciones que no existen. 
 </div>
 
 ---
@@ -58,9 +58,11 @@
   <h3>Astrocyte - Optimización en Servicios de Salud</h3>
   <p>Un sistema de expediente clínico electrónico impulsado por IA, diseñado para hacer que los médicos puedan concentrarse en lo que realmente importa: brindar una atención de calidad, mientras la tecnología se encarga de las tareas repetitivas.</p>
   <img src="Astrocyte.png" height="150" alt="Dashboard Animation" />
+  
+  <h3>Tutor-IA - Educación personalizada</h3>
+  <p>Un asistente virtual para alumnos de educación básica, que apoya a los pequeños en obtener aprendizaje efectivo, personalizado, regularización continua y adquisición de valores fundamentales desde muy temprano.</p>
+  <img src="Tutor-IA.png" height="150" alt="Dashboard Animation" />
 </div>
-
-
 
 <div align="center">
   <h2>● Tecnologías ●</h2>
@@ -132,7 +134,7 @@
 
 <div align="center">
   <h2>🌟 La verdadera IA</h2>
-  <p>El conocimiento es un pilar de la humanidad. No busco una tecnología que reemplace al humano, sino que amplifique sus capacidades, estoy hablando de <strong>Inteligencia Aumentada.</strong></p>
+  <p>El conocimiento es un pilar de la humanidad. No busco una tecnología que reemplace al humano, sino que amplifique sus capacidades, estoy hablando del nuevo significado de las siglas IA: <strong>Inteligencia Aumentada.</strong></p>
   <img src="heart.webp" width="20%" alt="Visión Placeholder" />
 </div>
 
@@ -141,12 +143,12 @@
   <h2>🌱 Mis Principios</h2>
   <h3>Hay algunas cosas que me rigen durante mi trayectoria de vida.</h3>
 
-  <cite style="font-size: 20px">Lo primero es no dañar</cite> <p>Juré, al recibirme como médico, que mi primer principio sería no dañar, ni aunque sea por un bien mayor. No se experimenta con la salud humana.</p>
+  <cite style="font-size: 20px">Primun no nocere (Lo primero es no dañar)</cite> <p>Juré, al titularme como médico, que mi primer principio sería no dañar, ni aunque sea por un bien mayor. No se experimenta con la salud humana.</p>
 
-  <cite style="font-size: 20px">Ante la duda, abstente</cite>
+  <cite style="font-size: 20px">In dubiis, abstine (Ante la duda, abstente)</cite>
   <p>Si no existe evidencia suficiente como para aseverar que algo es seguro, es mala idea. El tratamiento médico es sagrado y no debe mancharse con suposiciones.</p>
   
-  <cite style="font-size: 20px">Médico, cúrate a tí mismo</cite><p>Para curar a otras personas debemos curarnos a nosotros mismos primero. Por eso la salud y el autocuidado son cada vez más prioritarios en mi vida y mi rutina.</p>
+  <cite style="font-size: 20px">Medice, cūrā tē ipsum (Médico, cúrate a tí mismo)</cite><p>Para curar a otras personas debemos curarnos a nosotros mismos primero. Por eso la salud y el autocuidado son cada vez más prioritarios en mi vida y mi rutina.</p>
 </div>
 
 ---
@@ -180,21 +182,8 @@
 </div>
 
 ---
-
 <div align="center">
-  <h2>🥼 Voluntariado</h2>  
-
-  <p>He trabajado en varios proyectos de  voluntariado ¡y seguiré trabajando en más!</p>
-  <ul style="list-style-type:none;">
-    <li><strong>Voluntariado en Islandia:</strong> Participación en proyectos de reforestación y educación en Islandia.</li>
-    <li><strong>Educación en salud:</strong> He impartido clases y ponencias en múltiples ocasiones a lo largo de México para difundir el conocimiento en salud y tecnología.</li>
-  </ul>
-</div>
-
----
-
-<div align="center">
-  <h2>🚀 El Futuro que merecemos</h2>
+  <h2>🌄 El Futuro que merecemos</h2>
   <p>La medicina y la tecnología no son metas, son caminos. Estoy aquí para explorar esos caminos, para hacer rutas para quien venga y para colaborar con quien quiera unirse a mí en esta búsqueda.</p>
 </div>
 
