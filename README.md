@@ -59,9 +59,6 @@
   <p>Un sistema de expediente clínico electrónico impulsado por IA, diseñado para hacer que los médicos puedan concentrarse en lo que realmente importa: brindar una atención de calidad, mientras la tecnología se encarga de las tareas repetitivas.</p>
   <img src="Astrocyte.png" height="150" alt="Dashboard Animation" />
   
-  <h3>Tutor-IA - Educación personalizada</h3>
-  <p>Un asistente virtual para alumnos de educación básica, que apoya a los pequeños en obtener aprendizaje efectivo, personalizado, regularización continua y adquisición de valores fundamentales desde muy temprano.</p>
-  <img src="Tutor-IA.png" height="150" alt="Dashboard Animation" />
 </div>
 
 <div align="center">
